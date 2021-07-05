@@ -1,20 +1,18 @@
 body{
     font-family: 'Prompt', sans-serif;
+   
+
 }
 .intro-section{
     display: flex;
     width: 100%;
 }
 .intro-width{
-    display: inline-block ;
+    position: relative;
     width: 50%;
 }
-.shapes{
-    position: relative;
-    top: 0;
-    right: 0;
-}
-.girls-eating{
-    position: absolute;
-    top: 0;
+.about-me{
+    background-image: url("https://i.imgur.com/SOfHvn8.png");
+    height: 400px;
+    width: 100%;
 }
